@@ -1,7 +1,7 @@
 
-### Igor Prokhorchuk
+# Igor Prokhorchuk
 
-#### Full Stack web developer
+## Full Stack web developer
 
 --- 
 
@@ -14,9 +14,11 @@
 - Discord: [IgorProkhorchuk](https://discord.com/channels/igorprokhorchuk#1619)
 - LinkedIn: [Igor Prokhorchuk](https://www.linkedin.com/in/igorprohorchuk/)
 
-##### <div align="center">Summary:</div>
+### <div align="center">Summary:</div>
 
  Results-driven person with a solid technical background and experience in automation of logistics and supply chain processes. Being always on cutting edge of the IT technologies I set up my goal to change the field from project management in production to Web development, software engineering & cloud technologies. With a big passion to study I'm building my hard skills brick by brick in order to become a full stack guru.
+
+ ---
 
 | Hard skills: | Soft skills: |
 | :----------- | :----------- |
