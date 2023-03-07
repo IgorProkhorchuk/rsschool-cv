@@ -14,7 +14,7 @@
 - Discord: [IgorProkhorchuk](https://discord.com/channels/igorprokhorchuk#1619)
 - LinkedIn: [Igor Prokhorchuk](https://www.linkedin.com/in/igorprohorchuk/)
 
-### <div align="center">Summary:</div>
+### Summary:
 
  Results-driven person with a solid technical background and experience in automation of logistics and supply chain processes. Being always on cutting edge of the IT technologies I set up my goal to change the field from project management in production to Web development, software engineering & cloud technologies. With a big passion to study I'm building my hard skills brick by brick in order to become a full stack guru.
 
@@ -34,7 +34,7 @@
 
 ###### Code example:
 
-Rock Paper Scissors (on Python). Script return which player won. In case of a draw return `Draw`.
+Rock Paper Scissors (on Python). Script return which player won. In case of a draw return "Draw".
 
 ```
 def rps(p1, p2):
